@@ -1,0 +1,2 @@
+Copy [Project Folder]\Assets\_ExternalAssets\Plugins\x86\XInputInterface.dll to [Project Folder]\XInputInterface.dll
+Making a Build does NOT require to copy XInputInterface.dll in the same folder the your game .exe file
